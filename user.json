@@ -1,0 +1,30 @@
+
+
+  {
+      "user" :[
+          {
+            "id" : 1,
+            "firstname": "Sergio",
+            "lastname": "Ramos",
+            "email" : "sergio4@gmail.com" 
+        },
+         {
+            "id" : 2,
+            "firstname": "Karim",
+            "lastname": "Benzema",
+            "email" : "karim9@gmail.com"
+        },
+        {
+            "id" : 3,
+            "firstname": "James",
+            "lastname": "Rodriguez",
+            "email" : "james16@gmail.com"
+        },
+        {
+            "id" : 4,
+            "firstname": "Eden",
+            "lastname": "Hazard",
+            "email" : "hazard10@gmail.com"
+        }
+      ]
+  }
